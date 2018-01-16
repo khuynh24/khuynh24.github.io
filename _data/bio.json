@@ -2,7 +2,7 @@
   "basics": {
     "name": "Karissa Huynh",
     "label": "Student",
-    "picture": "https://khuynh24.github.io/images/molly.png",
+    "picture": "https://khuynh24.github.io/images/pro-profile.png",
     "email": "khuynh24@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://khuynh24.github.io",
@@ -18,35 +18,25 @@
       {
         "network": "github",
         "username": "khuynh24",
-        "url": "http://github.com/changem"
+        "url": "http://github.com/khuynh24"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "khuynh24",
+        "url": "http://linkedin.com/in/khuynh24"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Developement",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Web Development",
       "keywords": [
       ]
     },
