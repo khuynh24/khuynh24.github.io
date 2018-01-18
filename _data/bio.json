@@ -31,8 +31,6 @@
     {
       "name": "Software Developement",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -78,6 +76,20 @@
       ]
     }
   ],
+  "work": [
+    {
+      "company": "3rdi Galleries",
+      "position": "Sales Support",
+      "website": "",
+      "startDate": "2014-05-01",
+      "endDate": "Present",
+      "highlights": [
+        "Responde to all customer inquiries in a timely manner",
+        "Meeting and making a connection with customers",
+        "Ability to work as part of a team and take initiative independent of direct supervision"
+
+      ]
+},
 
  
   "references": [
