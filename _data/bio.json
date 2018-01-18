@@ -72,9 +72,13 @@
       "startDate": "2015-09-01",
       "endDate": "Present",
 //      "gpa": "",
-      "courses": [
+      "courses": ["Fundamentals of computer science emphasizing problem solving",
+                  "Algorithm Development"
+                  "Object-oriented Programming Language"
+                  "Data Structures"
       ]
     }
+    
   ],
   
   "work": [
