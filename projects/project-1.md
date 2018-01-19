@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/bear.jpg
 title: Run Bear Run
-permalink: projects/micromouse
+permalink: projects/runBearRun
 # All dates must be YYYY-MM-DD format!
 date: 2016-12-10
 labels:
@@ -12,7 +12,7 @@ summary: My classmates and I build an “endless runner” for our EE160 class u
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/bear.png">
+  <img class="ui image" src="../images/bear.jpg">
 </div>
 
 
