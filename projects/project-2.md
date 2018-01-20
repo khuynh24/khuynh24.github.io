@@ -12,7 +12,7 @@ labels:
 summary: A text-based interactive Pokemon game I developed in ICS 211.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/poke_begin">
+<img class="ui medium right floated rounded image" src="../images/poke_begin.jpg">
 
 Pokémon Battle Game is a two-player game that uses Pokémon object classes I created in ICS 211, Fall 2017. The project helped me learn how to design and implement various generic class objects and manage different methods to allow users-selection. I also learned how to keep track of user data after alternating turns.
 
@@ -22,7 +22,7 @@ At the beginning of the game, each player chooses a Pokémon and randomly receiv
 
 Once a player's Pokémon has fainted, the game ends and print out a congratulatory message to the winner. 
 
-<img class="ui medium right floated rounded image" src="../images/poke_end">
+<img class="ui medium right floated rounded image" src="../images/poke_end.jpg">
 
 
 ----------------------------------------------------------------------------------------------------------------------------
