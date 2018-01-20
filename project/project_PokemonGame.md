@@ -25,7 +25,7 @@ Once a player's Pokémon has fainted, the game ends and print out a congratulato
 
 
 <div class="ui medium right floated rounded images">
-  <img class="ui image" src="../images/poke.end.png">
+  <img class="ui image" src="../images/poke_end.png">
 </div>
 
 ----------------------------------------------------------------------------------------------------------------------------
