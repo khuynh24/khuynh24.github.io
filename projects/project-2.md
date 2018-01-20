@@ -23,7 +23,6 @@ At the beginning of the game, each player chooses a Pokémon and randomly receiv
 
 Once a player's Pokémon has fainted, the game ends and print out a congratulatory message to the winner. 
 
-# <img class="ui medium right floated rounded image" src="../images/poke_end.jpg">
 
 <div class="ui medium right floated rounded images">
   <img class="ui image" src="../images/poke.end.png">
