@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/pokemon_battle.jpg
 title: Pokemon Battle Game
-permalink: projects/vacay
+permalink: projects/pokemonBattleGame
 # All dates must be YYYY-MM-DD format!
 date: 2017-11-03
 labels:
