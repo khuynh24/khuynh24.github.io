@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/pokemon_battle.jpg
 title: Pokemon Battle Game
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: A text-based interactive Pokemon game I developed in ICS 211.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/poke_begin">
 
 Pokémon Battle Game is a two-player game that uses Pokémon object classes I created in ICS 211, Fall 2017. The project helped me learn how to design and implement various generic class objects and manage different methods to allow users-selection. I also learned how to keep track of user data after alternating turns.
 
@@ -21,6 +21,8 @@ The objective of the game is to terminate the other player first, before they te
 At the beginning of the game, each player chooses a Pokémon and randomly receives HP points (bounded depending on the Pokémon type). After both Pokémon are chosen, the game should randomly choose which Player goes first. Then the two players alternate, entering commands to attack until one Pokémon "faints" (reaches 0 HP). The options given to each player are "perform fastAttack", "perform specialAttack", and "pass" (Three passes allows the user to perform specialAttack). Each Pokémon have specific attacks types that are effective to a certain degree toward other Pokémon types. In other words, after a user performs an attack, it will decrement the other players HP by a certain degree, depending on both player Pokémon types.
 
 Once a player's Pokémon has fainted, the game ends and print out a congratulatory message to the winner. 
+
+<img class="ui medium right floated rounded image" src="../images/poke_end">
 
 
 ----------------------------------------------------------------------------------------------------------------------------
