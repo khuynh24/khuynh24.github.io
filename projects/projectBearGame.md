@@ -21,4 +21,4 @@ My role was to help create the obstacles to avoid in the game and help design of
 
 Working on this project took a lot of time outside of class. It was difficult to find times where our schedule did not clash with one another. One important key I learned from working in groups is communication. There were times numerous amount of times where one person's code was not compactable with another person's code, causing frustrations that could start a war. Another thing I also learned about working on projects with other people is that time management is extremely important. We relied on one another to have finished their portion of the work so that we can make progressions to develop our game before the deadline. Lastly, it was a great experience working on this project because my classmates were always helpful to explain to me concepts I did not understand.
 
-
+<img class="ui image" src="../images/tree.png">
