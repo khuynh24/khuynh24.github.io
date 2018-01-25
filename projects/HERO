@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bear.jpg
+image: images/helmet.png
 title: H.E.R.O
 permalink: projects/HERO
 # All dates must be YYYY-MM-DD format!
@@ -12,17 +12,10 @@ labels:
   
 summary: Creating a hypothetical organization and website.
 ---
-
-<div class="ui small squared images">
-  <img class="ui image" src="../images/hero_1.jpg">
-</div>
-
-<div class="ui small squared images">
-  <img class="ui image" src="../images/mission.jpg">
-</div>
-
-<div class="ui small squared images">
-  <img class="ui image" src="../images/members.jpg">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/hero_1.png">
+  <img class="ui image" src="../images/helmet.png">
+  <img class="ui image" src="../images/members.png">
 </div>
 
 ## Project H.E.R.O
@@ -48,6 +41,10 @@ other aspects of our organization. What I learned from this group project is how
 one single idea. I also learned how exhausting it is to build an organization and the commitment that goes into it. Some 
 aspects I discovered from this project is the importance of cooperation and responsibility.
 Overall, I learned a lot from my first group project.
+
+<div class="ui medium right floated rounded images">
+  <img class="ui image" src="../images/mission.png">
+</div>
 
 
 
