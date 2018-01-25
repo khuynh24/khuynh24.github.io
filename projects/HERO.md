@@ -19,7 +19,6 @@ summary: Creating a hypothetical organization and website.
 
 ## Project H.E.R.O
 
-
 For our English 100 class, we were given a special group project to create a hypothetical organization aimed at improving some
 aspect of life on Oahu. The project required us to research a problem here in the islands along with possible solutions to 
 address this issue. We had to use our collaborative research to display the components of our organization in the form of a 
