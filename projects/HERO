@@ -13,7 +13,17 @@ labels:
 summary: Creating a hypothetical organization and website.
 ---
 
+<div class="ui small squared images">
+  <img class="ui image" src="../images/hero_1.jpg">
+</div>
 
+<div class="ui small squared images">
+  <img class="ui image" src="../images/mission.jpg">
+</div>
+
+<div class="ui small squared images">
+  <img class="ui image" src="../images/members.jpg">
+</div>
 
 ## Project H.E.R.O
 
