@@ -10,7 +10,7 @@ labels:
   - C
 summary: My classmates and I build an “endless runner” for our EE160 class using c.
 ---
-## Run Bear Run!
+
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/bear.jpg">
