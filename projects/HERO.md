@@ -11,7 +11,7 @@ labels:
   - Helmet Awareness
 summary: Creating a hypothetical organization and website.
 ---
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/hero_1.png">
   <img class="ui image" src="../images/helmet.png">
   <img class="ui image" src="../images/members.png">
@@ -40,7 +40,7 @@ one single idea. I also learned how exhausting it is to build an organization an
 aspects I discovered from this project is the importance of cooperation and responsibility.
 Overall, I learned a lot from my first group project.
 
-<div class="ui medium right floated rounded images">
+<div class="ui floated rounded images">
   <img class="ui image" src="../images/mission.png">
 </div>
 
