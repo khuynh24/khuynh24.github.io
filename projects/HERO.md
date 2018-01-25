@@ -9,7 +9,6 @@ date: 2016-04-20
 labels:
   - Web development
   - Helmet Awareness
-  
 summary: Creating a hypothetical organization and website.
 ---
 <div class="ui small rounded images">
