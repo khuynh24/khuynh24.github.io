@@ -22,6 +22,6 @@ Now that you've return a wiser human being, I found some questions on stack over
 
 Link to [smart question](https://stackoverflow.com/questions/48458101/protoc-producing-invalid-java-code).
 
-
+The questioner at hand begins his question stating exactly what his problem is. Another good thing they did right was to show his process on how he tried to find an solution. He also shows that he is trying to be apart of the process by asking "what am I missing". They also show the courtest of doing a follow up on what he found.
 
 
