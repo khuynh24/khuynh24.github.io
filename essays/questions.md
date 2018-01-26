@@ -18,10 +18,12 @@ According to Eric Raymond in "How to ask questions the smart way", he goes into 
 
 Better yourself! Click the link! [article](http://www.catb.org/esr/faqs/smart-questions.html).
 
-Now that you've return a wiser human being, I found some questions on stack overflow to help you understand how to produce a smart question. 
+Now that you've return a wiser human being, I found some questions on stack overflow to help you understand how to produce a smart question. Link to [smart question](https://stackoverflow.com/questions/48458101/protoc-producing-invalid-java-code). The questioner at hand begins his question stating exactly what his problem is. Another good thing they did right was to show his process on how he tried to find a solution. He also shows that he is trying to be a part of the process by asking "what am I missing" and courtesy of doing a follow up on his solution. As a result, the quality of the question was resolved in the first answer given on what went wrong and the questioner was able to fix his problem and find a solution.
 
-Link to [smart question](https://stackoverflow.com/questions/48458101/protoc-producing-invalid-java-code).
+An example of a bad question would be [this](https://stackoverflow.com/questions/48458769/how-to-change-the-ckeditor-auto-save-message-in-asp-net). Here the questioner doesn't share his process in how they tried to solve the problem and doesn't really specify the road block he ran into. In response, a commenter questions him about his process and sends him links on how to improve their questions.
 
-The questioner at hand begins his question stating exactly what his problem is. Another good thing they did right was to show his process on how he tried to find an solution. He also shows that he is trying to be apart of the process by asking "what am I missing". They also show the courtest of doing a follow up on what he found.
+##Overall
+
+Although we all make mistakes and ask silly questions, its good to know that we can save ourselves time by taking a few extra steps to develop a better question. We can filter out non helpful answers by asking a good question and increase our chances in finsing an effective solution. 
 
 
