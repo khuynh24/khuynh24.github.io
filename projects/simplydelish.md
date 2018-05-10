@@ -15,9 +15,8 @@ summary: Simply Delish is a web application for UH Manoa students to seek their 
 ---
 
 
-<div class="ui small rounded images">
   <img class="ui image" src="../images/git-images/sim-cover.png">
-</div>
+
 
 
 Simply Delish is an application available to UH Manoa students to allow them to search through all the delicious meals available to them across campus. The application also includes a feature for students to view the most beloved meals of the day, sorted by the ratings of likes of other fellow peers. Not only does Simply Delish cater to students, it also provides vendors to apply and mange the menu items they have available, as well as providing descriptions about their food items.
