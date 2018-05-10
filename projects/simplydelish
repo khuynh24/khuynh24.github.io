@@ -9,6 +9,8 @@ date: 2018-05-09
 labels:
   - React
   - Meteor
+  - MongoDB
+  - GitHub
 summary: Simply Delish is a web application for UH Manoa students to seek their next meal available to them on campus.
 ---
 
