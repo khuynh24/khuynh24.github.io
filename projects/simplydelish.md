@@ -27,6 +27,7 @@ The team for this project was the total size of four people. My contribution to 
 From this project, it enhanced my ability of debugging and designing. I had a lot of practice with on how-to layout the webpage using Semantic UI React, specifically cards and grids. This project also deepened my understanding on implementation of storing things in the data base. Overall, I overcame a lot of obstacles while doing this project and learned how to communicate with my teammates whenever I come across a situation.
 
 [Click here to learn more on our project page!](https://simplydelish.github.io/)
+
 [Click here to view it on GitHub!](https://github.com/simplydelish/simplydelish)
 
 ----
