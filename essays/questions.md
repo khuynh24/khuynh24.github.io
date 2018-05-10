@@ -22,7 +22,7 @@ Now that you've return a wiser human being, I found some questions on stack over
 
 An example of a bad question would be [this](https://stackoverflow.com/questions/48458769/how-to-change-the-ckeditor-auto-save-message-in-asp-net). Here the questioner doesn't share his process in how they tried to solve the problem and doesn't really specify the road block he ran into. In response, a commenter questions him about his process and sends him links on how to improve their questions.
 
-##Overall
+## Overall
 
 Although we all make mistakes and ask silly questions, its good to know that we can save ourselves time by taking a few extra steps to develop a better question. We can filter out non helpful answers by asking a good question and increase our chances in finding an effective solution. 
 
