@@ -50,6 +50,7 @@
       "level": "",
       "keywords": [
         "C",
+        "C++",
         "Java",
         "Javascript",
       ]
@@ -60,6 +61,8 @@
       "keywords": [
         "MacOS",
         "Git/GitHub",
+        "Linux/Unix",
+        "IntelliJ",
       ]
     }
   ],
