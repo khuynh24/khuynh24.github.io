@@ -12,7 +12,6 @@ labels:
   - Web development
 ---
 
-## Frame your life
 Frameworks with semantic UI will make your life a lot easier. Actually, investing any time in to learning a framework will be 
 essentially worth it.  That is, having gained the ability will allow you to be able to build professional pleasing webpages in 
 a significantly shorter amount of time rather than using classic ole HTML and CSS. 
