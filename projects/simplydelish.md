@@ -27,8 +27,8 @@ From this project, it enhanced my ability of debugging and designing. I had a lo
 
 ----
 
-## To show you a sample of the Vendor HomePage design in progress
+# To show you a sample of the Vendor HomePage design in progress
 <img class="ui image" src="../images/git-images/vendorHome_2.png">
 
-## The final result of the Vendor Homepage
+# The final result of the Vendor Homepage
 <img class="ui image" src="../images/git-images/vendorHome_1.png">
